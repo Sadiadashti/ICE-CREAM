@@ -32,6 +32,13 @@ cursor: pointer;
     position: relative;
     bottom: 250px;
 }
+.menu{
+    transition: all 3s;
+}
+.menu:hover{
+    transform: scale(1.2); 
+    cursor: pointer;
+}
 .icon{
     position: relative;
     left: 180px;
